@@ -1,0 +1,15 @@
+.gradle/
+.DS_Store
+build/
+local.properties
+
+android-kotlin*
+
+.settings
+.classpath
+.project
+
+android-sdk/
+*.pdf
+
+*-ignore*
