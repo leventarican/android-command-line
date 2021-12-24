@@ -22,6 +22,4 @@ android-sdk/cmdline-tools/latest/bin/avdmanager create avd -n $VIRTUAL_DEVICE_NA
 # android-sdk/cmdline-tools/latest/bin/avdmanager list device
 # android-sdk/cmdline-tools/latest/bin/avdmanager list avd
 
-echo Step 7: Start emulator
-android-sdk/emulator/emulator @$VIRTUAL_DEVICE_NAME
-# android-sdk/emulator/emulator @pixel_5 -datadir android-sdk/avd/pixel_5
+source $PWD/start-emulator.sh
