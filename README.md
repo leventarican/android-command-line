@@ -90,3 +90,6 @@ cd boilerplate
 ./gradlew installDebug
 ./gradlew uninstallDebug
 ```
+
+## Links
+* https://leventarican.github.io/android-android-1/
